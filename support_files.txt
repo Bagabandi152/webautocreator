@@ -1,0 +1,1 @@
+https://pythonawesome.com/a-shape-detection-project-with-opencv-and-python/
